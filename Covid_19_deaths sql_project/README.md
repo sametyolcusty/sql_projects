@@ -52,4 +52,4 @@ In general, I will try to present the steps clearly enough by stating the steps 
 
 ## Website
 
-For more information about the project, visit my website (https://www.sametyolcu.com/portfolio).
+For more information about the project, visit my website (https://sametyolcu.com/covid-19-dataset-sql-project).
