@@ -18,13 +18,17 @@ In general, I will try to present the steps clearly enough by stating the steps 
 ![Resim Açıklaması](covid5.png)
 
 2-In PostgreSQL create 'sql_project' DB.
+
 3-Create 2 tables alomg with column and its datatype by refering the csv files.
 
  ![Resim Açıklaması](covid1.png)
 
 4-Import the data from corresponding csv file(You can access the column names and data types of the tables you will create from the photos in the project file).
+
 5-Explore the data to get answer for questions
+
     a.Datewise Likelihood of dying due to Covid-Totalcases vs TotalDeath- in India.
+
     So we will look for a table that shows the data like this:
 
 ![Resim Açıklaması](covid.png)
