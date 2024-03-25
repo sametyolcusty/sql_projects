@@ -6,7 +6,7 @@ You can also find all my projects in my website.
 
 ## Usage
 
-To use this projects PostgreSQL 15
+To use this projects PostgreSQL 15.
 
 ## Website
 
